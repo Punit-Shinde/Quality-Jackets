@@ -1,6 +1,6 @@
-# Quality-Jackets Landing Page
+# Quality-Jackets 
 
-![Fashion Portfolio](quality-jackets.png)
+![Quality-Jackets](jacket.jpg)
 
 ## Description
 
