@@ -1,4 +1,4 @@
-#﻿# Quality-Jackets Landing Page
+# Quality-Jackets Landing Page
 
 ![Fashion Portfolio](quality-jackets.png)
 
